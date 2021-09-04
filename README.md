@@ -24,7 +24,19 @@ Here is the list of required packages/ libraries for you
 3. pandas
 ```
 For better understandings all the requisite comments are provided in the code.
- 
+
+## Screenshots
+
+![Live Demo Screenshots](https://user-images.githubusercontent.com/69616742/132089916-6bf07859-e6bc-4d6e-a730-d9c6eba961a5.png)
+
+
+
+![Attendence sheet Screenshots](https://user-images.githubusercontent.com/69616742/132089890-d975e686-2c8a-4382-9ce9-05dedfeb2568.png)
+
+
+
+![Face Detection and Recognition Screenshots](https://user-images.githubusercontent.com/69616742/132089897-a0326d1b-1a9f-429e-8cdf-4638473d0fc9.png)
+
 ## FAQ
 
 #### Question 1: Where it can be used?
