@@ -1,7 +1,11 @@
 
 # Smart Attendance
 
-The name itself reflects the exact idea behind it. Its a OpenCV project which is purely based on face detection & recognition but in addition it will also store the name and time of enrollment by crerating an excel sheet.
+The name itself reflects the exact idea behind it. Its a OpenCV project which is purely based on face detection & recognition but in addition it will also store the name and time of enrollment by crerating an excel sheet. Still confused???
+                
+Okay here is an example for your better undertanding..
+Let's consider the NEW NORMAL scenario of our life which we all are copping with that is ONLINE TUTORING. When teacher/ prof want to take the attendance of students either they have to call the roll numbers or some platforms allows to preserve the participants list in the meeting. But still there are  chances of happening some misbehaviors. So to avoid that this system is build.   
+
 
  ![Demo](https://www.aindralabs.com/wp-content/uploads/smart-attendance.jpg)
  
@@ -29,9 +33,7 @@ For better understandings all the requisite comments are provided in the code.
 
 ## Screenshots
 
-![Live Demo Screenshots](https://user-images.githubusercontent.com/69616742/132089916-6bf07859-e6bc-4d6e-a730-d9c6eba961a5.png)
-
-
+![Live Demo Screenshots](https://user-images.githubusercontent.com/69616742/132089916-6bf07859-e6bc-4d6e-a730-d9c6eba961a5.pn
 
 ![Attendence sheet Screenshots](https://user-images.githubusercontent.com/69616742/132089890-d975e686-2c8a-4382-9ce9-05dedfeb2568.png)
 
